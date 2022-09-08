@@ -1,7 +1,54 @@
 h1 {
-   font-family:"Verdana";
-   font-weight:"normal";
-   font-size: 50px;
+   font-family: Verdana;
    color: white;
+}
+   .headerfont {
+   font-weight:normal;
+   font-size: 50px;
    text-align: center;
+}
+   .bigfont {
+      font-weight:300;
+      font-size: 42px;
+      text-align: center;
+   }
+h5 {
+   color:aquamarine;
+   font-size:16px;
+   text-align:center;
+}
+body {
+   background-color:black;
+}
+img.center {
+   display: block;
+   margin-left: auto;
+   margin-right: auto;
+   width: 100%;
+}
+
+img.right {
+   display: block;
+   margin-left: auto;
+   margin-right: auto;
+   width: 5%;
+}
+
+video.center {
+   display: block;
+   margin-left: auto;
+   margin-right: auto;
+   width: 25%;
+   <!--height: 100%;-->
+}
+h4 {
+   font-family: Verdana;
+   color: gray;
+   font-size: 21px;
+}
+.center {
+   text-align: center;
+}
+.right {
+   text-align: right;
 }
